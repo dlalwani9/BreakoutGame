@@ -114,7 +114,7 @@ function collsionDetection(){
           score++;
           if(score==brickRowCount*brickColumnCount){
             alert("YOU WIN,Congratulations");
-            document.location.href="http://localhost:3000"
+            document.location.href="https://thebreakout.herokuapp.com/"
           }
       }
     }
