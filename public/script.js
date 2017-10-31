@@ -162,7 +162,7 @@ function draw(){
       lives--;
       if(!lives){
         alert("GAME OVER");
-        document.location.href="http://localhost:3000"
+        document.location.href="https://thebreakout.herokuapp.com/"
       }
       else {
         x=canvas.width/2;
