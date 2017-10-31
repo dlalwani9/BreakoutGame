@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+}/*this is done inorder to make the game consisitent in all browsers*/
+
+#myCanvas{
+  background: #eee;
+  display: block;
+  margin:0 auto;
+}/*to style the canvas give it color and position it*/
